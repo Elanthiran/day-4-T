@@ -32,6 +32,7 @@ day-4-Task /
 ```bash
 git clone
 cd js-functions-practice
+---
 
 ▶️ Usage
 
@@ -40,6 +41,7 @@ node iife.js
 node anonymous.js
 node arrow.js
 
+---
 
 🖼️ Screenshots
 
@@ -51,6 +53,7 @@ Example output (odd numbers from an array):
 7
 9
 
+---
 
 🛠️ Tech Stack
 
@@ -68,6 +71,8 @@ Example output (odd numbers from an array):
 
 - Add interactive web UI for testing
 
+---
+
 🤝 Contributing
 
 Contributions are welcome!
@@ -80,6 +85,7 @@ Contributions are welcome!
 
 4. Open a Pull Request
 
+---
 
 📜 License
 
