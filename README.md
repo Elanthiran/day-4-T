@@ -29,22 +29,22 @@ day-4-Task /
 ---
 
 ## 📥 Clone
-```bash
+
 git clone https://github.com/Elanthiran/day-4-T.git
 cd js-functions-practice
 ---
 
-▶️ Usage
+## ▶️ Usage
 
 Run any file using Node.js:
-```bash
+
 node iife.js
 node anonymous.js
 node arrow.js
 
 ---
 
-🖼️ Screenshots
+## 🖼️ Screenshots
 
 Example output (odd numbers from an array):
 ```bash
@@ -57,13 +57,13 @@ Example output (odd numbers from an array):
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - JavaScript (ES6+)
 
 - Node.js (to run code)
 
-🚧 Future Improvements
+## 🚧 Future Improvements
 
 - Use modern methods (map, filter, reduce)
 
@@ -75,7 +75,7 @@ Example output (odd numbers from an array):
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 
@@ -89,6 +89,6 @@ Contributions are welcome!
 
 ---
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
