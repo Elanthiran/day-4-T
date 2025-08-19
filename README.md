@@ -37,6 +37,7 @@ cd js-functions-practice
 ▶️ Usage
 
 Run any file using Node.js:
+```bash
 node iife.js
 node anonymous.js
 node arrow.js
@@ -46,6 +47,7 @@ node arrow.js
 🖼️ Screenshots
 
 Example output (odd numbers from an array):
+```bash
 
 1
 3
