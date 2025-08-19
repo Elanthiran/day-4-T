@@ -30,7 +30,7 @@ day-4-Task /
 
 ## 📥 Clone
 ```bash
-git clone
+git clone https://github.com/Elanthiran/day-4-T.git
 cd js-functions-practice
 ---
 
