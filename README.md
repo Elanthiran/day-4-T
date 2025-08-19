@@ -58,7 +58,7 @@ Example output (odd numbers from an array):
 5
 7
 9
-
+```
 ---
 
 ## 🛠️ Tech Stack
